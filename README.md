@@ -1,4 +1,5 @@
 # RapidFireVentures
 Landing Page for RapidFire Ventures - Park City, UT
 
-[![Preview of the page]()](https://www.youtube.com/watch?v=4fPB7VPA6dg&ab_channel=AniketKarna)
+https://github.com/CrypticNumbers8/RapidFireVentures/assets/57065053/600dfc93-befe-4c39-ae66-9b093dd1a702
+
